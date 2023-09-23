@@ -13,7 +13,7 @@
 | Tov-template      | wkif/tov-template      | [dishait](https://github.com/dishait) |
 | Vitesse           | antfu/vitesse          | [antfu](https://github.com/antfu/)    |
 | vitesse-nuxt3     | antfu/vitesse-nuxt3    | [antfu](https://github.com/antfu/)    |
-
+| kifsReactTemplate | wkif/kifsReactTemplate | [kif](https://github.com/wkif)        |
 
 
 

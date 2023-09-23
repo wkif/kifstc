@@ -1,6 +1,6 @@
 {
   "name": "kifstc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "template download tools",
   "main": "index.js",
   "bin": {
