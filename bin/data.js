@@ -28,5 +28,10 @@ const PROJECTLIST = [
     value: "antfu/vitesse-nuxt3",
     description: "Vitesse for Nuxt 3 🏔💚⚡️",
   },
+  {
+    name: "🚄 kifsReactTemplate",
+    value: "wkif/kifsReactTemplate",
+    description: "A react template. Include Vite,Axios,Unocss,TypeScript,react-router,Eslint",
+  },
 ];
 export { PROJECTLIST };
